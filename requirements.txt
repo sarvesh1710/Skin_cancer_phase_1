@@ -1,0 +1,25 @@
+# Core
+python-dotenv>=1.0.0
+crewai>=0.1.30
+langchain>=0.1.14
+
+# Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.36.0
+Pillow>=9.5.0
+
+# HuggingFace & Tokenizer
+huggingface-hub>=0.21.0
+sentencepiece>=0.1.99
+
+# Image processing
+opencv-python>=4.8.0
+
+# Utilities
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# Optional: for markdown to PDF conversion (if needed later)
+markdown
+weasyprint
